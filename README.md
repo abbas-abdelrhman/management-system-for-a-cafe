@@ -1,4 +1,4 @@
-# Management-system-for-a-cafe
+# Management-system-for-a-cafe (C++)
 
 ## Project Description
 - The main idea of this project is to store clients' data and the data can be updated or deleted.
